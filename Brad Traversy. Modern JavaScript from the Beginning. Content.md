@@ -1,6 +1,6 @@
 Brad Traversy
 
-**Modern JavaScript From The Beginning 2.0**
+# Modern JavaScript From The Beginning 2.0
 
 
 1\. Welcome To The Course <https://youtu.be/-FUsMY-0_qw>
@@ -15,7 +15,7 @@ Brad Traversy
 
 6\. Running JavaScript In The Browser <https://youtu.be/2kFo7H8qpAc>
 
-SECTION 1 **\"Variables, Data Types & More\"**
+## SECTION 1 Variables, Data Types & More
 
 7\. Section Intro <https://youtu.be/7Wxi_C5bNzE>
 
@@ -51,7 +51,7 @@ SECTION 1 **\"Variables, Data Types & More\"**
 
 23\. Date Methods & DateTimeFormat API <https://youtu.be/TLD9Vt-zonY>
 
-SECTION 2 **\"Arrays & Objects\"**
+## SECTION 2 Arrays & Objects\
 
 24\. Section Intro <https://youtu.be/t8YDOi-9kRc>
 
@@ -74,7 +74,7 @@ SECTION 2 **\"Arrays & Objects\"**
 
 33\. Object Challenges <https://youtu.be/7LmGo_a-xlQ>
 
-SECTION 3 **\"Functions, Scope & Execution Context\"**
+## SECTION 3 Functions, Scope & Execution Context
 
 34\. Section Intro <https://youtu.be/7dH4rV3-940>
 
@@ -103,7 +103,7 @@ SECTION 3 **\"Functions, Scope & Execution Context\"**
 
 46\. The Call Stack <https://youtu.be/q4hzXlgyNNg>
 
-SECTION 4 **\"Logic & Control Flow\"**
+## SECTION 4 Logic & Control Flow
 
 47\. Section Intro <https://youtu.be/asUJQBZj4EI>
 
@@ -123,7 +123,7 @@ SECTION 4 **\"Logic & Control Flow\"**
 
 55\. Ternary Operator <https://youtu.be/dqXYkYXfUKA>
 
-SECTION 5 **\"Loops & High Order Array Methods\"**
+## SECTION 5 Loops & High Order Array Methods
 
 56\. Section Intro <https://youtu.be/4fKSpQXdCtM>
 
@@ -149,7 +149,7 @@ SECTION 5 **\"Loops & High Order Array Methods\"**
 
 67\. Array Method Challenges <https://youtu.be/WfkYpAzOaDk>
 
-SECTION 6 **\"The Document Object Model\"**
+## SECTION 6 The Document Object Model
 
 68\. Section Intro <https://youtu.be/wQ2SNvjYL5U>
 
@@ -181,7 +181,7 @@ SECTION 6 **\"The Document Object Model\"**
 
 82\. Manipulating Styles & Classes <https://youtu.be/j36kJcQAC7s>
 
-SECTION 7 **\"Events\"**
+## SECTION 7 Events
 
 83\. Section Intro <https://youtu.be/y1jSh0X_Yqc>
 
@@ -206,7 +206,7 @@ SECTION 7 **\"Events\"**
 93\. Page Loading & Window Events
 <https://youtu.be/-1CKdQAQUYU?si=so0xTBnt6e8JgInl>
 
-**Project 1.**
+## Project 1
 
 94\. Project Intro <https://youtu.be/XIbBnQFp6m4?si=TYPXof2mrBhGdFWt>
 
@@ -236,7 +236,7 @@ SECTION 7 **\"Events\"**
 
 107\. Deploy To Netlify <https://youtu.be/pk9J5hIBQeg>
 
-SECTION 8 **\"Asynchronous JavaScript\"**
+## SECTION 8 Asynchronous JavaScript
 
 108\. Section Intro <https://youtu.be/1F_YqiRwRbA>
 
@@ -272,7 +272,7 @@ SECTION 8 **\"Asynchronous JavaScript\"**
 123\. Handling Multiple Promises with promise.all()
 <https://youtu.be/Xi0wJSymtvk>
 
-SECTION 9 **\"Fetch API & Async / Await\"**
+## SECTION 9 Fetch API & Async / Await
 
 124\. Section Intro <https://youtu.be/g6K9Sxw6Tgg>
 
@@ -326,7 +326,7 @@ SECTION 9 **\"Fetch API & Async / Await\"**
 
 147\. Add Pagination For Search <https://youtu.be/wP9hXuwo8VY>
 
-SECTION 10 **\"WEB APIs\"**
+## SECTION 10 WEB APIs
 
 148\. Section Intro <https://youtu.be/bATu3NtBpTo>
 
@@ -360,7 +360,7 @@ SECTION 10 **\"WEB APIs\"**
 162\. Speech Synthesis API - Text To Speech
 <https://youtu.be/hNM2Bp6lxPc>
 
-SECTION 11 **\"OOP Section Intro\"**
+## SECTION 11 OOP Section Intro
 
 163\. Section Intro <https://youtu.be/3NWErML_XcE>
 
@@ -409,7 +409,7 @@ SECTION 11 **\"OOP Section Intro\"**
 
 184\. Sealing & Freezing Objects <https://youtu.be/fNGt-w-V6ak>
 
-**Project 2.**
+## Project 2
 
 185\. Project Intro <https://youtu.be/ZqLaEE9bE5Q>
 
@@ -450,7 +450,7 @@ SECTION 11 **\"OOP Section Intro\"**
 
 202\. Clear Storage Items <https://youtu.be/kw5EUfD75yQ>
 
-Section 12 **\"Modules and Tooling\"**
+## Section 12 Modules and Tooling
 
 203\. Section Intro <https://youtu.be/fwWMFEUKXSA>
 
@@ -482,7 +482,7 @@ Section 12 **\"Modules and Tooling\"**
 
 217\. Deploy Tracalorie To Netlify <https://youtu.be/YNtqxRYbRjU>
 
-SECTION 13 **\"Iterators, Generators & Data Structures\"**
+## SECTION 13 Iterators, Generators & Data Structures
 
 218\. Section Intro <https://youtu.be/RS8YOrnV_Dk>
 
@@ -526,7 +526,7 @@ SECTION 13 **\"Iterators, Generators & Data Structures\"**
 
 238\. Has Duplicate IDs - jsdom <https://youtu.be/NOkv52kV3E8>
 
-SECTION 14 **\"Node.js Core Modules\"**
+## SECTION 14 Node.js Core Modules
 
 239\. Section Intro <https://youtu.be/xfIT3eoP64w>
 
